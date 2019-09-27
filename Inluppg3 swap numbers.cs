@@ -1,6 +1,6 @@
 using System;
 
-namespace ConsoleApp2
+namespace Swap Numbers
 {
     class Program
     {
